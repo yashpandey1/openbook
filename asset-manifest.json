@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/openbook/static/css/main.53705179.css",
+    "main.js": "/openbook/static/js/main.d3b66944.js",
+    "static/js/787.290a3e0e.chunk.js": "/openbook/static/js/787.290a3e0e.chunk.js",
+    "static/media/bg1.png": "/openbook/static/media/bg1.7b6b7467cd83f4871538.png",
+    "index.html": "/openbook/index.html",
+    "main.53705179.css.map": "/openbook/static/css/main.53705179.css.map",
+    "main.d3b66944.js.map": "/openbook/static/js/main.d3b66944.js.map",
+    "787.290a3e0e.chunk.js.map": "/openbook/static/js/787.290a3e0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53705179.css",
+    "static/js/main.d3b66944.js"
+  ]
+}
